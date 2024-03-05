@@ -1,8 +1,8 @@
-# AI Portofolio
+![image](https://github.com/Mbendo/GitPortofolio/assets/69746813/aff28ea4-8e07-4433-8f9e-6409a6eff63c)# AI Portofolio
 welcome to my portofolio, here i will showcase my projects of learning how to be an AI Engineer
 
 ## About Me
-I am a dedicated and driven individual with a keen interest in AI and its applications. my first step into AI and it's application start in my college years, where i applied AI for my Thesis, then 
+Hello, I’m Benando, you can call me Ben, an AI engineer with a Computer Science degree from Universitas Pertamina. I have a strong passion for artificial intelligence and its applications in various domains. I have experience in Computer Vision projects as stated here in my portofolio page. For my bachelor’s thesis, I developed Acne Classification using CNN, where i analyze the efectiveness of a cut down VGGNet architecture. I’m eager to learn new technologies and methodologies in AI engineering and collaborate with other professionals in this field.
 
 ## What is here? / Table of contents
 1. Face Detection
