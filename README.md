@@ -1,4 +1,4 @@
-![image](https://github.com/Mbendo/GitPortofolio/assets/69746813/aff28ea4-8e07-4433-8f9e-6409a6eff63c)# AI Portofolio
+# AI Portofolio
 welcome to my portofolio, here i will showcase my projects of learning how to be an AI Engineer
 
 ## About Me
