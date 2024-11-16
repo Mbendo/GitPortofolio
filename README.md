@@ -1,4 +1,4 @@
-# AI Portofolio
+# Portofolio
 welcome to my portofolio, here i will showcase my projects of learning how to be an AI Engineer/Data Engineer
 
 ## About Me
