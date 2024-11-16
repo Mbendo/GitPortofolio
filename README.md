@@ -1,8 +1,10 @@
 # AI Portofolio
-welcome to my portofolio, here i will showcase my projects of learning how to be an AI Engineer
+welcome to my portofolio, here i will showcase my projects of learning how to be an AI Engineer/Data Engineer
 
 ## About Me
 Hello, I’m Benando, you can call me Ben, an AI engineer with a Computer Science degree from Universitas Pertamina. I have a strong passion for artificial intelligence and its applications in various domains. I have experience in Computer Vision projects as stated here in my portofolio page. For my bachelor’s thesis, I developed Acne Classification using CNN, where i analyze the efectiveness of a cut down VGGNet architecture. I’m eager to learn new technologies and methodologies in AI engineering and collaborate with other professionals in this field.
+
+In addition to AI, I have engaged in data engineering projects that showcase my versatility. My work includes developing data pipelines, ensuring data integrity, and optimizing data storage solutions to support robust and scalable AI models. I’m eager to learn new technologies and methodologies in both AI and data engineering, and I look forward to collaborating with other professionals in these fields.
 
 ## What is here? / Table of contents
 1. Face Detection
